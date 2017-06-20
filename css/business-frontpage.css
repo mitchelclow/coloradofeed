@@ -12,7 +12,7 @@ body {
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .business-header {
-    height: 400px;
+    height: 350px;
     background: url('http://i.imgur.com/99UtEUA.png') center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -33,4 +33,8 @@ body {
 
 footer {
     margin: 50px 0;
+}
+
+.gameName {
+    text-align: center;
 }
